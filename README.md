@@ -4,7 +4,7 @@ Este repositorio contiene una página web simple publicada con **GitHub Pages**.
 
 ## ¿Qué contiene?
 
-- `index.html`: Página web principal.
+index.html: Página web principal.
 - `README.md`: Esta descripción.
 
 ## Enlace en línea
